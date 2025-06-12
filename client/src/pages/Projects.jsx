@@ -4,7 +4,7 @@ const projects = [
     description:
       "A full-stack portfolio platform to showcase my work and ideas around sustainable cities. Includes a blog, contact form with email + Google Sheets logging, and modular routing using React.",
     image: "/assets/portfolio-preview.png",
-    repo: "https://github.com/yourusername/portfolio-site", // Replace or remove
+    repo: "https://github.com/TestadeNevill/portfolio-site/tree/main", // Replace or remove
     demo: "/", // "/" if it's this site, or replace with deployed link
     tools: [
       "React",
@@ -15,6 +15,18 @@ const projects = [
       "Google Sheets API",
     ],
   },
+  {
+  slug: "live-dashboard",
+  title: "Real-Time Urban Data Dashboard",
+  date: "June 2025",
+  description:
+    "A live data dashboard visualizing real-time weather and traffic to help plan responsive urban infrastructure.",
+  image: "/assets/live-dashboard-preview.png",
+  tools: ["React", "OpenWeatherMap API", "Google Maps", "Axios", "Chart.js"],
+  demo: "/live-dashboard"
+},
+
+  
   {
     title: "Battery & Solar Development Project",
     description: "A master-planned eco-district integrating renewable energy, green transit, and community agriculture.",
