@@ -21,54 +21,54 @@ const projects = [
   date: "June 2025",
   description:
     "A live data dashboard visualizing real-time weather and traffic to help plan responsive urban infrastructure.",
-  image: "/assets/live-dashboard-preview.png",
+  image: "/assets/livedashboard.png",
   tools: ["React", "OpenWeatherMap API", "Google Maps", "Axios", "Chart.js"],
   demo: "/live-dashboard"
 },
-
-  
-  {
-    title: "Battery & Solar Development Project",
-    description: "A master-planned eco-district integrating renewable energy, green transit, and community agriculture.",
-    image: "/assets/Smart Green Neighborhood.png",
-    link: "#",
-  },
-  {
-    title: "Real Estate Development Proforma",
-    description: "A master-planned eco-district integrating renewable energy, green transit, and community agriculture.",
-    image: "/assets/Smart Green Neighborhood.png",
-    link: "#",
-  },
-  {
-    title: "SketchUp Model",
-    description: "A master-planned eco-district integrating renewable energy, green transit, and community agriculture.",
-    image: "/assets/Smart Green Neighborhood.png",
-    link: "#",
-  },
-  {
-    title: "AI Agent for Real Estate Leads",
-    description: "A master-planned eco-district integrating renewable energy, green transit, and community agriculture.",
-    image: "/assets/Smart Green Neighborhood.png",
-    link: "#",
-  },
-  {
-    title: "Smart Green Neighborhood",
-    description: "A master-planned eco-district integrating renewable energy, green transit, and community agriculture.",
-    image: "/assets/Smart Green Neighborhood.png",
-    link: "#",
-  },
-  {
-    title: "Solar + Storage Deployment",
-    description: "Led site acquisition and development of utility-scale solar + battery systems in urban infill zones.",
-    image: "/assets/Battery_Energy_Storage_BESS.png",
-    link: "#",
-  },
-  {
+ {
     title: "Futuristic Transit Hub",
     description: "A conceptual design integrating eVTOL pads, AI traffic routing, and multi-modal walkability.",
     image: "/assets/Futuristic_Transit_Hub.jpg",
     link: "#",
-  }
+  },
+
+  
+  // {
+  //   title: "Battery & Solar Development Project",
+  //   description: "A master-planned eco-district integrating renewable energy, green transit, and community agriculture.",
+  //   image: "/assets/Smart Green Neighborhood.png",
+  //   link: "#",
+  // },
+  // {
+  //   title: "Real Estate Development Proforma",
+  //   description: "A master-planned eco-district integrating renewable energy, green transit, and community agriculture.",
+  //   image: "/assets/Smart Green Neighborhood.png",
+  //   link: "#",
+  // },
+  // {
+  //   title: "SketchUp Model",
+  //   description: "A master-planned eco-district integrating renewable energy, green transit, and community agriculture.",
+  //   image: "/assets/Smart Green Neighborhood.png",
+  //   link: "#",
+  // },
+  // {
+  //   title: "AI Agent for Real Estate Leads",
+  //   description: "A master-planned eco-district integrating renewable energy, green transit, and community agriculture.",
+  //   image: "/assets/Smart Green Neighborhood.png",
+  //   link: "#",
+  // },
+  // {
+  //   title: "Smart Green Neighborhood",
+  //   description: "A master-planned eco-district integrating renewable energy, green transit, and community agriculture.",
+  //   image: "/assets/Smart Green Neighborhood.png",
+  //   link: "#",
+  // },
+  // {
+  //   title: "Solar + Storage Deployment",
+  //   description: "Led site acquisition and development of utility-scale solar + battery systems in urban infill zones.",
+  //   image: "/assets/Battery_Energy_Storage_BESS.png",
+  //   link: "#",
+  // },
 ];
 
 const Projects = () => {
