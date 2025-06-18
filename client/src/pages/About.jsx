@@ -51,7 +51,7 @@ const About = () => {
   <p>
     Ultimately, I’m committed to shaping the infrastructure of the future—where visionary design meets practical execution. 
     By combining data-driven insight with creative problem-solving, I aim to build systems that are not only efficient and forward-thinking, 
-    but also grounded in community needs and climate resilience, with long-term value at their core.
+    but also grounded in our collective community needs and climate resilience, with long-term value at their core.
   </p>
 </div>
 
